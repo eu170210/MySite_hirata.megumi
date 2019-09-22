@@ -331,6 +331,7 @@ header {
 	position: static;
 	text-align: center;
 	margin: 0 auto;
+	float: none;
 }
 .Contact-info-sns i{
     padding: 4px;
@@ -339,6 +340,7 @@ header {
 	width: auto;
 	text-align: center;
 	margin: 0 auto;
+	float: none;
 }
 }
 
